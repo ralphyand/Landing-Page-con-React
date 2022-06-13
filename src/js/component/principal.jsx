@@ -2,7 +2,7 @@ import React from "react";
 
 const Principal = () => {
 	return (
-		<div className="container-fluid mt-3 ">
+		<div className="container- mt-3 p-3">
 			<p className="text-title fs-1 ">
 				Cumple tus sueños viajando con nosotros...
 			</p>
@@ -13,7 +13,7 @@ const Principal = () => {
 				sequi voluptate quas asperiores ratione?
 			</p>
 
-			<button type="button" class="btn btn-primary btn-sm">
+			<button type="button" class="btn btn-primary text-start ">
 				Call to action!
 			</button>
 		</div>
